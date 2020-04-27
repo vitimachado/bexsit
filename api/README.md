@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\vmachad8\Desktop\Arquivos\others\node\webScrapingToTest\get-servicos-firebase-adminsdk-63t24-40ac717489.json"
