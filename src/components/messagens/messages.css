@@ -1,0 +1,12 @@
+.like-button {
+    font-size: smaller !important;
+    margin: auto !important;
+    margin-right: 0px !important;
+    width: min-content !important;
+}
+
+.like-score {
+    font-size: smaller !important;
+    margin: auto !important;
+    margin-right: 30px !important;
+}

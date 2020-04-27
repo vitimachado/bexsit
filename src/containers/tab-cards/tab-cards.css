@@ -1,0 +1,23 @@
+.row-tab-card {
+    width: max-content;
+    padding: 0px;
+    margin: 0px;
+}
+
+.col-tab-card {
+    font: -webkit-small-control;
+    border-bottom: 3px solid #806c5c;
+    margin-bottom: 20px;
+}
+
+.bntPagination {
+    font-size: small;
+    background: rgba(0, 0, 0, 0);
+    margin-bottom: 20px;    
+    border: 1px solid #0000ff0d;
+    margin: 5px;
+}
+
+.selectedButton {
+    background: rgba(0, 0, 0, 0.09) !important;
+}

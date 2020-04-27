@@ -1,0 +1,87 @@
+.root {
+    max-width: 230px !important;
+    min-width: 150px !important;;
+    margin: auto !important;
+    margin-bottom: 10px !important;        
+    /* min-height: 350px !important; */
+}
+
+.root > button :hover {
+    background-color: #f8f9fa00 !important;
+}
+
+.MuiCard-root {
+    height: 360px;
+}
+
+.card-forum {
+    border-radius: 8px !important;
+    margin-bottom: 15px !important;
+}
+
+.card-body {
+    border-radius: 8px !important;
+}
+
+.textAlignCenter {
+    text-align: center;
+}
+
+.textAlignRight {
+    text-align: right !important;
+}
+
+.footer-buttons{
+    bottom: 0px;
+}
+
+.font-size-small {    
+    font-size: x-small !important;
+}
+
+.vote-column {
+    max-width: 50px !important;
+    padding-left: 1px !important;
+}
+
+.vote-selected {
+    min-width: 0px !important;
+    border: 1px solid #f8f9fa !important;
+    background: #e9ecef !important;
+    border-radius: 60px !important;
+}
+
+.green-vote {    
+    color: #4bde95 !important;
+}
+
+.red-vote {    
+    color: #f3a7af !important;
+}
+
+.date {
+    text-align: end !important;
+    font-size: small !important;
+}
+
+
+.vertical-center {
+    margin: 0 !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    min-width: 50% !important;
+    -ms-transform: translate(-50%, -50%) !important;
+    transform: translate(-50%, -50%) !important;
+}
+
+@media(max-width: 610px) {
+    .vote-column {
+        max-width: max-content !important;
+        margin: auto !important;
+    }
+
+    .vertical-center {
+        min-width: 95% !important;
+    }
+}

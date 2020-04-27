@@ -1,0 +1,11 @@
+.nav-background {
+    background-color: #ffffff !important;
+    min-height: 55px !important;
+    width: 100% !important;
+    transition: top 1s !important;
+    z-index: 9 !important;
+}
+
+.search-container {
+    justify-content: flex-end !important;;
+}
