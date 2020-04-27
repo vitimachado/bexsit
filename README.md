@@ -4,6 +4,8 @@
 
 Projeto Fullstack de teste para Bexs.
 
+Projeto Live: https://chatcorp-34e5b.web.app/
+
 ## Getting Started
 
 Este projeto foi feito para teste de conhecimento profissional, foi usado React para o Front e Node para o Back com comunicação com Firestore.
