@@ -39,7 +39,7 @@ Abra a pasta "./api".
 ---
 ## Authors
 
-* **Vitor Machado** - [mmartan](https://github.com/vitimachado/mmartan)
+* **Vitor Machado** - [bexsit](https://github.com/vitimachado/bexsit)
 
 ## License
 
