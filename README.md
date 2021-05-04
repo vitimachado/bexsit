@@ -1,10 +1,9 @@
 # bexsit
 
-# React.js e Node.js Project (Bexs)
+# React.js e Node.js Project
 
-Projeto Fullstack de teste para Bexs.
+Projeto Fullstack de teste para .
 
-Projeto Live: https://chatcorp-34e5b.web.app/
 
 ## Getting Started
 
